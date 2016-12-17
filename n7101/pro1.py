@@ -1,5 +1,5 @@
 str1="sricharan"
-str2="raincrassh"
+str2="raincrash"
 word1=[]
 word2=[]
 for x in range(len(str1)):
